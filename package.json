@@ -1,0 +1,27 @@
+{
+  "name": "tugas_pekanan_4_senbercode",
+  "version": "1.0.0",
+  "description": "Mocha chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "Mocha" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahrillramadhan/Tugas_Pekanan_4_senbercode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syahrillramadhan/Tugas_Pekanan_4_senbercode/issues"
+  },
+  "homepage": "https://github.com/syahrillramadhan/Tugas_Pekanan_4_senbercode#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "dotenv": "^16.0.3",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
