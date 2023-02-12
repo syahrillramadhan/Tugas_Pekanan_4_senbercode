@@ -11,3 +11,8 @@ How to install depencies
 
 How to run script
 - npm run test test/main.js
+
+Screenshoot
+- https://ibb.co/W3f7BGK
+- https://ibb.co/N7J5GFP
+- https://ibb.co/ZW5j3KK
