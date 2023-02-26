@@ -1,4 +1,4 @@
-# Tugas Pekanan 4 - senbercode
+# Tugas Pekanan 4 - sanbercode
 
 How to install depencies
 - npm init
